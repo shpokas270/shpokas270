@@ -20,6 +20,4 @@
 </div>
 
 ### 📓 Checkout my Portfolio:
-
-🚧 Construction happening...
-Check REPOS for projects...
+https://www.spokas.lt/
