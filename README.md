@@ -4,7 +4,6 @@
 
 ---
 
-- 🔭 I’m working on **projects to add to my portfolio**
 - ⚡ Fun fact **I walked 80km+ from Vilnius to Kaunas just to get a beer with my friend true story bro :D**
 
 ### 💻 TechStack
