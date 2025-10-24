@@ -14,7 +14,7 @@
 - Styling:<br>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=sass&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
 ### 🌐 Connect with me:
-
+![](https://komarev.com/ghpvc/?username=shpokas-io)
 <div>
 <a href="https://www.linkedin.com/in/skirmantasspakovskis/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
 </div>
